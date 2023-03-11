@@ -1,0 +1,29 @@
+h1	{
+	color: #f00;
+}
+h2	{
+	color: #0f0;
+}
+button	{
+	color: #00f;
+}
+input	{
+	color: #fF0;
+}
+[atributo="propiedad1"]	{
+	color: green;
+}
+.parrafo1	{
+	color: #f00;
+}
+
+p 	{
+	color: #f0f !important;
+}
+
+#segundo-titulo {
+	color: #51f;
+}
+h3	{
+	color: #0ff;
+}
